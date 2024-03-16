@@ -29,16 +29,16 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'PsikotesDaring',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'PsikotesDaring',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'PsikotesDaring merupakan platform Psikotes berbasis online yang menyediakan layanan tes sesuai ranah kebutuhan yang ada di Indonesia',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://i.ibb.co/3r0bWfs/Screenshot-2024-03-16-142415.png',
+          link: 'https://psikotesdaring.com',
         },
         {
           title: 'Project Name',
