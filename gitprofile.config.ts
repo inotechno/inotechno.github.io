@@ -29,7 +29,7 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'PsikotesDaring',
+      header: 'Portfolios',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
@@ -41,12 +41,12 @@ const CONFIG = {
           link: 'https://psikotesdaring.com',
         },
         {
-          title: 'Project Name',
+          title: 'Rumah Aplikasi',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Portfolio CMS Rumah Aplikasi',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://rumahaplikasi.co.id/img/rumahaplikasi.png',
+          link: 'https://rumahaplikasi.co.id',
         },
       ],
     },
