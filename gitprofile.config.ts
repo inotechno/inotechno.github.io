@@ -100,6 +100,13 @@ const CONFIG = {
     'Rest API'
   ],
   experiences: [
+    {
+      company: 'BasisCoding',
+      position: 'Fulstack Developer',
+      from: 'September 2019',
+      to: 'Januari 2022',
+      companyLink: 'https://example.com',
+    },
      {
       company: 'SMK Arrahman Cidadap',
       position: 'Kepala Laboratorium Komputer',
@@ -121,13 +128,6 @@ const CONFIG = {
       to: 'Desember 2021',
       companyLink: 'https://example.com',
     },
-    // {
-    //   company: 'BasisCoding',
-    //   position: 'Fulstack Developer',
-    //   from: 'September 2019',
-    //   to: 'Januari 2022',
-    //   companyLink: 'https://example.com',
-    // },
     {
       company: 'PT. Trimitra Data Komunikasi',
       position: 'Fullstack Developer',
