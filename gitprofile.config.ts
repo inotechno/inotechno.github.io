@@ -103,6 +103,8 @@ const CONFIG = {
     'Jquery',
     'MySQL',
     'Git',
+    'Google Cloud Bucket',
+    'VPS',
     'Bootstrap',
     'Codeigniter',
     'Livewire',
