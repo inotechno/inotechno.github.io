@@ -14,7 +14,7 @@ const CONFIG = {
     github: {
       display: true, // Display GitHub projects?
       header: 'Github Projects',
-      mode: 'automatic', // Mode can be: 'automatic' or 'manual'
+      mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'updated', // Sort projects by 'stars' or 'updated'
         limit: 8, // How many projects to display.
@@ -25,7 +25,18 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: [
+          'inotechno/employee-management-system', 
+          'inotechno/password-generator', 
+          'inotechno/silink', 
+          'inotechno/bukuzilla', 
+          'inotechno/spk-kontruksi', 
+          'inotechno/password-generator',
+          'inotechno/asset-management-system',
+          'inotechno/koperasi-santri', 
+          'inotechno/broadcast-email-system', 
+          'inotechno/SDLH'
+        ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
