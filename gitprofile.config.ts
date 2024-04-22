@@ -100,9 +100,30 @@ const CONFIG = {
     'Rest API'
   ],
   experiences: [
+     {
+      company: 'SMK Arrahman Cidadap',
+      position: 'Kepala Laboratorium Komputer',
+      from: 'Januari 2019',
+      to: 'Januari 2020',
+      companyLink: 'https://example.com',
+    },
+     {
+      company: 'PT Fajar Pangan Lestari',
+      position: 'Staff Accounting',
+      from: 'April 2020',
+      to: 'Agustus 2021',
+      companyLink: 'https://example.com',
+    },
+     {
+      company: 'PT Indo Prima Perkasa',
+      position: 'IT Support',
+      from: 'OKtober 2021',
+      to: 'Desember 2021',
+      companyLink: 'https://example.com',
+    },
     {
       company: 'BasisCoding',
-      position: 'Programmer',
+      position: 'Fulstack Developer',
       from: 'September 2019',
       to: 'Januari 2022',
       companyLink: 'https://example.com',
