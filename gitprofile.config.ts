@@ -29,7 +29,7 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'Portfolios',
+      header: 'Live Portfolio',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
@@ -47,6 +47,14 @@ const CONFIG = {
           imageUrl:
             'https://rumahaplikasi.co.id/img/rumahaplikasi.png',
           link: 'https://rumahaplikasi.co.id',
+        },
+        {
+          title: 'TPM Group',
+          description:
+            'Portfolio Web TPM Group',
+          imageUrl:
+            'https://tpmgroup.id/wp-content/uploads/2023/03/alogo-2.png',
+          link: 'https://tpmgroup.id',
         },
       ],
     },
