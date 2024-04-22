@@ -27,7 +27,7 @@ const CONFIG = {
         // Properties for manually specifying projects
         projects: [
           'inotechno/employee-management-system', 
-          'inotechno/password-generator', 
+          'inotechno/e-budget',
           'inotechno/silink', 
           'inotechno/bukuzilla', 
           'inotechno/spk-kontruksi', 
